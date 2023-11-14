@@ -1,3 +1,5 @@
+THIS WEBSITE IS BEING BUILT... PLEASE BE PATIENT...
+
 [CONTENTS](./README.md):
 - [The project](./README.md#eolos2bios)
 - [People](./README.md#People)
