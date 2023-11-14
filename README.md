@@ -1,4 +1,4 @@
-CONTENTS:
+[CONTENTS](./README.md):
 - [The project](./README.md#eolos2bios)
 - [People](./README.md#People)
 - [A short presentation video](./README.md#Presentation)
@@ -16,6 +16,7 @@ CONTENTS:
 
 # People
 --- PRESENTATION OF THE PEOPLE THAT MADE THE PROJECT WILL GO HERE ---
+
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut pretium finibus interdum. Aliquam maximus odio eget erat commodo pulvinar. Cras quis ex est. Nullam id tortor sed neque tristique ultricies. Aenean nec diam at diam aliquam commodo. Sed rutrum pretium porttitor. Vestibulum non porta purus. Aenean consectetur lacus sed odio imperdiet, ut congue ligula venenatis. Suspendisse vulputate fringilla lectus interdum volutpat. Proin et dolor efficitur, aliquam magna eu, suscipit ante.
 
 # Presentation
