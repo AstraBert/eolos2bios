@@ -8,7 +8,7 @@ THIS WEBSITE IS BEING BUILT... PLEASE BE PATIENT...
 
 # eolos2bios
 
---- DETAILED PROJECT DESCRIPTION WILL GO HERE ---
+DETAILED PROJECT DESCRIPTION WILL GO HERE
 
 **eolos2bios** is a project developed by Alessandra Berta, Astra Bertelli, Anna Fenoglio and Francesco Tosini and is aimed to tackle the _Sustainability Challenge_ in BRAINstorm | Torino 2025 by providing a solution to the landscape problems given by large wind turbines
 
